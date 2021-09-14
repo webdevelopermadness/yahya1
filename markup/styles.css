@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+div{
+    height: 30%;
+    width: 30%;
+}
+
+div ,dl, dt, dd {
+    background-color: blanchedalmond;
+    border:2px solid white;
+    
+}
